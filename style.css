@@ -21,6 +21,8 @@ h1{
     left: 50%;
     transform: translate(-50%,-50%);
     position: fixed;
+    color: #fff;
+    font-size: 4rem;
 }
 .video-container{
     position: absolute;
